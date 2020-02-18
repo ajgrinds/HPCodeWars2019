@@ -1,0 +1,3 @@
+r = int(open("prob03.txt").read())
+print(r * r * 3.14159)
+# for some reason the example answer is just wrong...
