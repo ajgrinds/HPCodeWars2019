@@ -1,4 +1,4 @@
-io = open("prob9.txt").read().split(" ")
+io = open("prob09.txt").read().split(" ")
 if io[0] == io[1]:
     print(f"TIE, {io[0].upper()} does not affect {io[1].upper()}")
 

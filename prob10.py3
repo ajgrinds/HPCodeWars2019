@@ -1,0 +1,1 @@
+io = open("prob10.txt")
