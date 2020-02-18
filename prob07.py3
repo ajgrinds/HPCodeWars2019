@@ -1,4 +1,4 @@
-from algorthims.isPrime import is_prime
+from algorthims.numberChecks import is_prime
 import math
 
 for x in open("prob07.txt").read().splitlines():
